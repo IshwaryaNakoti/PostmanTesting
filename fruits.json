@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Apple",
+        "color": "Red",
+        "season": "Fall",
+        "nutrition": {
+            "calories": 52,
+            "sugar": "10.39g",
+            "fiber": "2.4g"
+        }
+    },
+    {
+        "name": "Banana",
+        "color": "Yellow",
+        "season": "Year-round",
+        "nutrition": {
+            "calories": 89,
+            "sugar": "12.23g",
+            "fiber": "2.6g"
+        }
+    },
+    {
+        "name": "Orange",
+        "color": "Orange",
+        "season": "Winter",
+        "nutrition": {
+            "calories": 47,
+            "sugar": "9.35g",
+            "fiber": "2.4g"
+        }
+    },
+    {
+        "name": "Strawberry",
+        "color": "Red",
+        "season": "Spring",
+        "nutrition": {
+            "calories": 32,
+            "sugar": "4.89g",
+            "fiber": "2.0g"
+        }
+    },
+    {
+        "name": "Grapes",
+        "color": "Green",
+        "season": "Fall",
+        "nutrition": {
+            "calories": 69,
+            "sugar": "15.48g",
+            "fiber": "0.9g"
+        }
+    },
+    {
+        "name": "Watermelon",
+        "color": "Green",
+        "season": "Summer",
+        "nutrition": {
+            "calories": 30,
+            "sugar": "6.2g",
+            "fiber": "0.4g"
+        }
+    },
+    {
+        "name": "Pineapple",
+        "color": "Brown",
+        "season": "Spring",
+        "nutrition": {
+            "calories": 50,
+            "sugar": "9.85g",
+            "fiber": "1.4g"
+        }
+    },
+    {
+        "name": "Mango",
+        "color": "Orange",
+        "season": "Summer",
+        "nutrition": {
+            "calories": 60,
+            "sugar": "13.66g",
+            "fiber": "1.6g"
+        }
+    },
+    {
+        "name": "Blueberry",
+        "color": "Blue",
+        "season": "Summer",
+        "nutrition": {
+            "calories": 57,
+            "sugar": "9.96g",
+            "fiber": "2.4g"
+        }
+    },
+    {
+        "name": "Kiwi",
+        "color": "Brown",
+        "season": "Winter",
+        "nutrition": {
+            "calories": 61,
+            "sugar": "8.99g",
+            "fiber": "3.0g"
+        }
+    },
+    {
+        "name": "Beetroot",
+        "color": "Maroon",
+        "season": "Summer",
+        "nutrition": {
+            "calories": 25,
+            "sugar": "4.4g",
+            "fiber": "3.2g"
+        }
+    }
+]
